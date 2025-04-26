@@ -10,3 +10,7 @@ Test z GIT
 
 ## Link do repozytorium
 [https://github.com/DF103203/moj-projekt](https://github.com/DF103203/moj-projekt)
+
+## Ignorowane pliki
+
+- notatki.txt (ignorowany w pliku .gitignore)
